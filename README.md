@@ -4,6 +4,7 @@ Demonstration of methods used in financial modeling and quantitative finance usi
 # Goals
 * Demonstrate the use of Modelling for Quantiative Finance.
 * Succesfully use Black-Scholes, Binomial trees and Monte Carlo Simulation to estimate various financial properties.
+* Understand how American and European options affect price.
 * Create a visualisation for these models.
 
 # Python libraries Used
