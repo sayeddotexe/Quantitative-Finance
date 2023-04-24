@@ -16,4 +16,4 @@ Demonstration of methods used in financial modeling and quantitative finance usi
 Notebooks:
 | Number | Notebook | Description |
 | ------------- | ------------- | ------------- |
-| 01 | [Financial Modeling](https://github.com/sayeddotexe/Tensorflow-Deep-Learning/blob/main/00_tensorflow_fundamentals.ipynb) | Financial modeling using Black-Scholes, Binomial trees and Monte Carlo Simulation |
+| 01 | [Financial Modeling](https://github.com/sayeddotexe/Financial-Modeling/blob/main/Financial%20Modeling.ipynb) | Financial modeling using Black-Scholes, Binomial trees and Monte Carlo Simulation |
