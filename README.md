@@ -2,7 +2,7 @@
 Demonstration of methods used in financial modeling and quantitative finance using Python.
 
 # Goals
-* Demonstrate the use of Modelling for Quantiative Finance.
+* Demonstrate the use of Modeling for Quantiative Finance.
 * Succesfully use Black-Scholes, Binomial trees and Monte Carlo Simulation to estimate various financial properties.
 * Understand how American and European options affect price.
 * Create a visualisation for these models.
@@ -16,4 +16,4 @@ Demonstration of methods used in financial modeling and quantitative finance usi
 Notebooks:
 | Number | Notebook | Description |
 | ------------- | ------------- | ------------- |
-| 01 | [Financial Modelling](https://github.com/sayeddotexe/Tensorflow-Deep-Learning/blob/main/00_tensorflow_fundamentals.ipynb) | Financial modelling using Black-Scholes, Binomial trees and Monte Carlo Simulation |
+| 01 | [Financial Modeling](https://github.com/sayeddotexe/Tensorflow-Deep-Learning/blob/main/00_tensorflow_fundamentals.ipynb) | Financial modeling using Black-Scholes, Binomial trees and Monte Carlo Simulation |
