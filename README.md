@@ -12,6 +12,7 @@ Demonstration of methods used in financial modeling and quantitative finance usi
 * Matplotlib - For data visualisation and graphical plotting of data.
 * Math - Functions that are useful in number theory and representation theory.
 
+
 Notebooks:
 | Number | Notebook | Description |
 | ------------- | ------------- | ------------- |
