@@ -9,9 +9,8 @@ Demonstration of methods used in financial modeling and quantitative finance usi
 
 # Python libraries Used
 * NumPy - To create multi-dimensional arrays, matrices etc. for Machine learning models.
-* Pandas - For analysis and manipulation of tabular data in Dataframes i.e importing CSV's.
 * Matplotlib - For data visualisation and graphical plotting of data.
-* Scikit-learn - Tools for machine learning and statistical modelling i.e splitting data into test and training data
+* Math - Functions that are useful in number theory and representation theory.
 
 Notebooks:
 | Number | Notebook | Description |
