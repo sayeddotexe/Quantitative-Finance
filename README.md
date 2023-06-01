@@ -1,5 +1,5 @@
-# Financial-Modeling
-Demonstration of methods used in financial modeling and quantitative finance for Option Pricing using Python.
+# Quantitative-Finance
+Demonstration the use of mathematical models and extremely large datasets to analyze financial markets and securities.
 
 # Goals
 * Demonstrate the use of Modeling for Quantiative Finance.
