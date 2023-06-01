@@ -11,9 +11,11 @@ Demonstration of methods used in financial modeling and quantitative finance for
 * NumPy - To create multi-dimensional arrays, matrices etc. for Machine learning models.
 * Matplotlib - For data visualisation and graphical plotting of data.
 * Math - Functions that are useful in number theory and representation theory.
+* Ta-Lib -  Used in analyzing the stock market's historical data like share price, volume, etc.
 
 
 Notebooks:
 | Number | Notebook | Description |
 | ------------- | ------------- | ------------- |
 | 01 | [Financial Modeling](https://github.com/sayeddotexe/Financial-Modeling/blob/main/Financial%20Modeling.ipynb) | Financial modeling using Black-Scholes, Binomial trees and Monte Carlo Simulation |
+| 01 | [Technical Stock Analysis](https://github.com/sayeddotexe/Financial-Modeling/blob/main/Technical%20Stock%20Analysis.ipynb) | Technical Analysis of Stocks using metrics such as SMA, EMA, Linear Regression, MACD, Engulfing Pattern |
