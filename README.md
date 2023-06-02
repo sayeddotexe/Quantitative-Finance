@@ -19,4 +19,4 @@ Notebooks:
 | ------------- | ------------- | ------------- |
 | 01 | [Financial Modeling](https://github.com/sayeddotexe/Financial-Modeling/blob/main/Financial%20Modeling.ipynb) | Financial modeling using Black-Scholes, Binomial trees and Monte Carlo Simulation |
 | 02 | [Technical Stock Analysis](https://github.com/sayeddotexe/Financial-Modeling/blob/main/Technical%20Stock%20Analysis.ipynb) | Technical Analysis of Stocks using metrics such as SMA, EMA, RSI, Linear Regression, MACD, Engulfing Pattern |
-| 02 | [Algorithmic Trading](https://github.com/sayeddotexe/Quantitative-Finance/blob/main/Algorithmic%20Trading.ipynb) | Demonstrate different Algorithmic trading strategies using Moving Averages, Mean Reversion and a Breakout Strategy |
+| 03 | [Algorithmic Trading](https://github.com/sayeddotexe/Quantitative-Finance/blob/main/Algorithmic%20Trading.ipynb) | Demonstrate different Algorithmic trading strategies using Moving Averages, Mean Reversion and a Breakout Strategy |
